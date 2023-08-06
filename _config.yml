@@ -23,7 +23,7 @@ title: Manal Emad  # the main title
 tagline: Security Operation Engineer # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Incident Response | Threat Hunter | Threat Detection | eCTHPv2 | SOAR | Automation
+  SOC | SIEM | Qrader | Splunk | ELK | SOAR | Incident Responder | Threat Intelligence
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://ManalEmad.github.io/"
