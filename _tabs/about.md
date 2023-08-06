@@ -13,7 +13,7 @@ Dedicated Cybersecurity Engineer driven by a passion for SOC, Incident Response,
 
 Bringing over a year's experience as L2 SOC Analyst and Incident Responder in a Security Operations Center, adept at skillfully resolving intricate security challenges.
 
-📧 [Email](mailto:mnalemad7@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/manal-emad/) | 🌐 [Website](https://0xatef.github.io) | ⚡ [GitHub](https://github.com/manalemad/)
+📧 [Email](mailto:mnalemad7@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/manal-emad/) | 🌐 [Website](https://ManalEmad.github.io) | ⚡ [GitHub](https://github.com/manalemad/)
 
 ---
 
